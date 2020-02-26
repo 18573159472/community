@@ -1,0 +1,1 @@
+ALTER TABLE USER ADD BIo varchar(256) NULL;
